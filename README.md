@@ -1,4 +1,4 @@
 # Ajay-demo
 This is my first Git Repository.
 <br>
-Author - Ajay Pandey
+Author - Ajay (GGITS collage)
